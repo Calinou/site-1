@@ -29,6 +29,7 @@ $ hexo server
 ## Contributors
 
 - English - [tommy351]
+- Français - [Calinou]
 - 正體中文 - [tommy351]
 - 简体中文 - [pinggod]
 
@@ -37,4 +38,5 @@ $ hexo server
 [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
 [tommy351]: https://github.com/tommy351
+[Calinou]: https://github.com/Calinou
 [pinggod]: https://github.com/pinggod
